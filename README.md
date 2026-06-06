@@ -288,9 +288,9 @@ npm run dev
 ## 👨‍💻 Team
 
 Team Winners: 
-Shubham Gupta
-Sayansh Pal
-Mohammad Kaif Ali
+Shubham Gupta,
+Sayansh Pal,
+Mohammad Kaif Ali,
 Pratyush Patel
 
 Built for Hackathon 2026 🚀
