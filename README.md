@@ -287,7 +287,7 @@ npm run dev
 
 ## 👨‍💻 Team
 
-Team Venture
+Team Winners: 
 Shubham Gupta
 Sayansh Pal
 Mohammad Kaif Ali
