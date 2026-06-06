@@ -55,7 +55,13 @@ const httpServer = http.createServer(app);
 
 const io = new IOServer(httpServer, {
   cors: {
-    origin: [/localhost/, /127\.0\.0\.1/, /192\.168\./, "https://venture-flax.vercel.app"],
+    origin: [
+      /localhost/,
+      /127\.0\.0\.1/,
+      /192\.168\./,
+      "https://venture-flax.vercel.app",
+      "https://venture-sports-club-tournament-mana.vercel.app",
+    ],
     credentials: true,
   },
 });
