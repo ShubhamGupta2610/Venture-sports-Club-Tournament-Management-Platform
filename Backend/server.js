@@ -33,7 +33,8 @@ app.use(
         origin.includes("localhost") ||
         origin.includes("127.0.0.1") ||
         origin.includes("192.168.") ||
-        origin.includes("venture-flax.vercel.app")
+        origin.includes("venture-flax.vercel.app") ||
+        origin.includes("venture-sports-club-tournament-mana.vercel.app")
       ) {
         return callback(null, true);
       }
