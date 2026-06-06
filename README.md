@@ -250,23 +250,28 @@ npm run dev
 
 ### Home Page
 
-![Home](screenshots/home.png)
+<img width="1884" height="918" alt="image" src="https://github.com/user-attachments/assets/cd8f88e3-86c4-4c1c-8daa-42ad5f169b4b" />
+
 
 ### Tournament Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+<img width="1224" height="828" alt="image" src="https://github.com/user-attachments/assets/6d845f12-9ab3-4c3e-ae60-d3946a5cb5d6" />
+
 
 ### Live Match View
 
-![Match](screenshots/live-match.png)
+<img width="969" height="786" alt="image" src="https://github.com/user-attachments/assets/cc4b4d19-a83d-4738-b69a-554fab2a9237" />
+
 
 ### AI Match Prediction
 
-![Prediction](screenshots/prediction.png)
+<img width="1599" height="761" alt="image" src="https://github.com/user-attachments/assets/f5a70967-abd4-4970-8b3e-372daecd29a5" />
+
 
 ### AI Highlight Generator
 
-![Highlights](screenshots/highlights.png)
+<img width="1142" height="785" alt="image" src="https://github.com/user-attachments/assets/e4af90e0-615c-4aa0-9454-82ff59b6674a" />
+
 
 ---
 
@@ -283,5 +288,9 @@ npm run dev
 ## 👨‍💻 Team
 
 Team Venture
+Shubham Gupta
+Sayansh Pal
+Mohammad Kaif Ali
+Pratyush Patel
 
 Built for Hackathon 2026 🚀
